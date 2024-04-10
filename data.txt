@@ -1,0 +1,53 @@
+Chitransh Kulshrestha
+India · chitransh.k2003@gmail.com · +91 6264234676 · GitHub · Linkedin
+
+Education
+Indian Institute of Information Technology Bhopal
+BTech Information Technology December 2021 - Present
+Professional Experience
+Stellarbyte August 2023 - October 2023
+Frontend development Intern
+• Led end-to-end development of multiple projects using Reactjs, Nextjs and TailwindCSS, showcasing expertise in
+building efficient web applications from scratch.
+• Created a comprehensive design system using Storybook, enhancing design consistency and accelerating project
+deployment, resulting in improved efficiency.
+• Optimized frontend for a chatbot with ChatGPT-like chat features using Styled Components and Tailwind CSS,
+delivering an engaging and visually appealing user interface.
+HUBX July 2023 - August 2023
+Full stack web development Intern
+
+Patilkaki December 2022 - January 2023
+Frontend development Intern
+• Oversee front-end development using ReactJs to maintain application integrity with the backend and its efficiency.
+• Utilize technologies such as Javascript, MaterialUI & UIzard to create UIs, improved codebase quality and increased
+stability.
+• Created pixel perfect frontend in ReactJs from the UIs.
+Projects
+Users Management https://github.com/chitranshk1301/users-crud-mern
+• Developed a user management system with CRUD operations using MERN stack, enhanced with data visualization
+using Chart.js.
+• Built a MERN-based solution for user management, featuring CRUD capabilities and data visualization through
+Chart.js.
+• Implemented user management with MERN stack, enabling CRUD operations and integrating Chart.js for intuitive
+data representation.
+Changelog-api https://github.com/chitranshk1301/changelog-api
+• Created a RESTful API for logging different versions of your software.
+• API includes CRUD operations on signin (with JWT auth), products and their updates.
+PicNest https://github.com/chitranshk1301/mern_image_crud
+• Developed a MERN project with secure user authentication, Cloudinary for image uploads, and a polished UI using
+Tailwind CSS. Users can create posts, and visibility is restricted to logged-in users.
+• Built a simple and secure MERN app allowing users to upload and share images. Utilized Cloudinary for image
+management and enhanced the UI with Tailwind CSS.
+ToDo’s list using flask https://github.com/chitranshk1301/todo-list-flask-based
+• Created todo’s list (CRUD), frontend and backend, using flask (python based web framework) and SQL.
+• Containerized it using docker.
+Skills
+Programming Languages: C++ ,Python
+Tools: GitHub, Git, Latex, Postman
+Database Management Systems: MySQL, PostgreSQL
+Web Development: HTML , CSS (Bootstrap, Tailwind and Material UI) , JavaScript. Typescript
+Libraries / Frameworks: ReactJs , NodeJs , FastAPI, MongoDb, Prisma, ExpressJs
+Soft Skills: Leadership, Communication Skills, Organised , Quick learner
+Achievements
+Runner Up GDSC IIIT Bhopal
+Bagged second prize in Intra IIIT development contest conducted by GDSC IIIT Bhopal for creating a password manager.
